@@ -1,7 +1,9 @@
 /*You have a 2d array.Please write a program for finding column's number
-with maximal average of elements. *
+with maximal average of elements. */
 
+#include <stdio.h>
 int main(){
+
 	int i,j, col, sum;
 	int arr[2][4] = {
 		{10, 11, 12, 13},
